@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5614'
     url: http://www.gutenberg.org/2009/agents/5614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14648#Bij-de-Parsi-s-van-Bombay-en-Gudsjerat--13-De-Aarde-en-haar-Volken-1909-1910
 gutenberg_bookshelf:
 - De Aarde en haar Volken
 - Anthropology
